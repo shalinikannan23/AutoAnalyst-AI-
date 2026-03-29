@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 import google.generativeai as genai
 
 # ---------- CONFIG ----------
-genai.configure(api_key="AIzaSyCej-swDffjJVXOLx63isO_tiHr4Pd18bs")
+genai.configure(api_key=xxx)
 llm = genai.GenerativeModel("gemini-2.5-flash")
 
 MODEL_NAME = "all-MiniLM-L6-v2"
