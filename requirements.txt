@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+xgboost
+shap
+fastapi
+uvicorn
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+flask
